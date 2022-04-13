@@ -24,9 +24,9 @@
   "aboutMe": [
     {
       "id": 1,
-      "name": "Aline",
-      "last_name": "Viana",
-      "history": "Frontend, 24 and learning about performance. Career changing and glad to be in tech",
+      "image": "https://media-exp1.licdn.com/dms/image/C4E03AQEQ0AZ_1eI89A/profile-displayphoto-shrink_800_800/0/1635521168217?e=1655337600&v=beta&t=mwMTzcsZevfVl8StyYqy-SKBt8XbjNJPLTYCSnPdXig"
+      "fullName": "Aline Viana",
+      "history": "Frontend, 24 and learning about performance. Career changing and glad to be in tech.",
       "email": "alinemaciel018@gmail.com",
       "linkedin": "https://www.linkedin.com/in/viana-aline/",
       "github": "https://github.com/linefmv"

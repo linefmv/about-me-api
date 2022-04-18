@@ -3,16 +3,16 @@
     {
       "id": 1,
       "name": "Reprograma",
-      "title": "FrontEnd",
-      "about": "",
-      "link": ""
+      "title": "Frontend",
+      "about": "Course to decrease gap of gender and create more space to women grow in technology. Skills: Git, HTML5, CSS3, Javascript, API, React and TDD",
+      "link": "https://reprograma.com.br/front-end-todasemtech.html"
     },
     {
       "id": 2,
-      "name": "Reprograma",
+      "name": "Estardando devs",
       "title": "UX/UI Design",
-      "about": "",
-      "link": ""
+      "about": "Course to development design skills, create prototypes and use design methodology. Skills: Design Thinking, Golden Path, Agile for Design, Prototype, User Guide.",
+      "link": "https://https://www.estartandodevs.com.br/"
     }
   ],
   "front": [

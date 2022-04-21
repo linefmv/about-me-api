@@ -1,4 +1,19 @@
 {
+  "aboutMyLife": [
+    {
+      "id": 1,
+      "Me": "I'm a Front-end developer. Currently, I have more contact with ReactJS, NextJS, and Styled Components. I am communicative and easily adapt to new routines and processes. I had experience with design methodologies and user interface creation. I made a career transition and my background in the health area made me an empathetic and accessible professional for learning and exchanges.",
+    },
+  ],
+  "front": [
+    { "id": 1, "title": "technologies": "Javascript, HTML and CSS3, React and React Native, NextJS, Typescript, Graphql, TDD: Jest and React Test Library, Clean Code, Styled Components and MaterialUI."}
+  ],
+  "design": [
+    { "id": 1, "design": "Figma, Canva, Sketch, Logo Creation, Design thinking, Usability, Brainstorming, Design Agile and Design Pattern." }
+  ],
+  "experiences": [
+    { "id": 1, "title": "experiences", "companyName": "Coderockr", "time": "nov de 2021 - current", "about": "Experience as a front-end developer. I work in the creation, development and maintenance of products with different domains. Agile experience. Skills: Javascript, HTML e CSS3, React e React Native, NextJS, Typescript, Graphql, Styled Components e MaterialUI." }
+  ],
   "studies": [
     {
       "id": 1,
@@ -15,17 +30,11 @@
       "link": "https://https://www.estartandodevs.com.br/"
     }
   ],
-  "front": [
-    { "id": 1, "title": "React"}
-  ],
-  "design": [
-    { "id": 1, "title": "Design"}
-  ],
   "aboutMe": [
     {
       "id": 1,
       "fullName": "Aline Viana",
-      "history": "Frontend, 24 and learning about performance. Career changing and glad to be in tech.",
+      "history": "Frontend developer, learning about Web. Career changing and glad to be in tech.",
       "email": "alinemaciel018@gmail.com",
       "linkedin": "https://www.linkedin.com/in/viana-aline/",
       "github": "https://github.com/linefmv"

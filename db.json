@@ -5,18 +5,16 @@
          "Me":"I'm a Front-end developer. Currently, I have more contact with ReactJS, NextJS, and Styled Components. I am communicative and easily adapt to new routines and processes. I had experience with design methodologies and user interface creation. I made a career transition and my background in the health area made me an empathetic and accessible professional for learning and exchanges."
       }
    ],
-   "front":[
+   "technologies":[
       {
          "id":1,
-         "technologies":"Javascript, HTML and CSS3, React and React Native, NextJS, Typescript, Graphql, TDD: Jest and React Test Library, Clean Code, Styled Components and MaterialUI."
-      }
-   ],
-   "design":[
+         "development":"Javascript, HTML and CSS3, React and React Native, NextJS, Typescript, Graphql, TDD: Jest and React Test Library, Clean Code, Styled Components and MaterialUI."
+      },
       {
-         "id":1,
+         "id":2,
          "design":"Figma, Canva, Sketch, Logo Creation, Design thinking, Usability, Brainstorming, Design Agile and Design Pattern."
       }
-   ],
+],
    "experiences":[
       {
          "id":1,

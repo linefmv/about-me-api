@@ -1,52 +1,50 @@
 {
-   "aboutMyLife":[
+   "aboutMyLife": [
       {
-         "id":1,
-         "Me":"I'm a Front-end developer. Currently, I have more contact with ReactJS, NextJS, and Styled Components. I am communicative and easily adapt to new routines and processes. I had experience with design methodologies and user interface creation. I made a career transition and my background in the health area made me an empathetic and accessible professional for learning and exchanges."
-      }
-   ],
-   "technologies":[
-      {
-         "id":1,
-         "development":"Javascript, HTML and CSS3, React and React Native, NextJS, Typescript, Graphql, TDD: Jest and React Test Library, Clean Code, Styled Components and MaterialUI."
+         "id": 1,
+         "about": "I'm a Front-end developer. Currently, I have more contact with ReactJS, NextJS, and Styled Components. I am communicative and easily adapt to new routines and processes. I had experience with design methodologies and user interface creation. I made a career transition and my background in the health area made me an empathetic and accessible professional for learning and exchanges."
       },
       {
-         "id":2,
-         "design":"Figma, Canva, Sketch, Logo Creation, Design thinking, Usability, Brainstorming, Design Agile and Design Pattern."
-      }
-],
-   "experiences":[
-      {
-         "id":1,
-         "companyName":"Coderockr",
-         "time":"nov de 2021 - current",
-         "about":"Experience as a front-end developer. I work in the creation, development and maintenance of products with different domains. Agile experience. Skills: Javascript, HTML e CSS3, React e React Native, NextJS, Typescript, Graphql, Styled Components e MaterialUI."
-      }
-   ],
-   "studies":[
-      {
-         "id":1,
-         "name":"Reprograma",
-         "title":"Frontend",
-         "about":"Course to decrease gap of gender and create more space to women grow in technology. Skills: Git, HTML5, CSS3, Javascript, API, React and TDD",
-         "link":"https://reprograma.com.br/front-end-todasemtech.html"
+         "id": 2,
+         "about": "Javascript, HTML and CSS3, React and React Native, NextJS, Typescript, Graphql, TDD: Jest and React Test Library, Clean Code, Styled Components and MaterialUI."
       },
       {
-         "id":2,
-         "name":"Estardando devs",
-         "title":"UX/UI Design",
-         "about":"Course to development design skills, create prototypes and use design methodology. Skills: Design Thinking, Golden Path, Agile for Design, Prototype, User Guide.",
-         "link":"https://https://www.estartandodevs.com.br/"
+         "id": 3,
+         "about": "Figma, Canva, Sketch, Logo Creation, Design thinking, Usability, Brainstorming, Design Agile and Design Pattern."
       }
    ],
-   "aboutMe":[
+   "experiences": [
       {
-         "id":1,
-         "fullName":"Aline Viana",
-         "history":"Frontend developer, learning about Web. Career changing and glad to be in tech.",
-         "email":"alinemaciel018@gmail.com",
-         "linkedin":"https://www.linkedin.com/in/viana-aline/",
-         "github":"https://github.com/linefmv"
+         "id": 1,
+         "companyName": "Coderockr",
+         "time": "nov de 2021 - current",
+         "about": "Experience as a front-end developer. I work in the creation, development and maintenance of products with different domains. Agile experience. Skills: Javascript, HTML e CSS3, React e React Native, NextJS, Typescript, Graphql, Styled Components e MaterialUI."
+      }
+   ],
+   "studies": [
+      {
+         "id": 1,
+         "name": "Reprograma",
+         "title": "Frontend",
+         "about": "Course to decrease gap of gender and create more space to women grow in technology. Skills: Git, HTML5, CSS3, Javascript, API, React and TDD",
+         "link": "https://reprograma.com.br/front-end-todasemtech.html"
+      },
+      {
+         "id": 2,
+         "name": "Estardando devs",
+         "title": "UX/UI Design",
+         "about": "Course to development design skills, create prototypes and use design methodology. Skills: Design Thinking, Golden Path, Agile for Design, Prototype, User Guide.",
+         "link": "https://https://www.estartandodevs.com.br/"
+      }
+   ],
+   "aboutMe": [
+      {
+         "id": 1,
+         "fullName": "Aline Viana",
+         "history": "Frontend developer, learning about Web. Career changing and glad to be in tech.",
+         "email": "alinemaciel018@gmail.com",
+         "linkedin": "https://www.linkedin.com/in/viana-aline/",
+         "github": "https://github.com/linefmv"
       }
    ]
 }
